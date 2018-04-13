@@ -7,6 +7,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": ">=6.0" // intentionally so big version number
+  },
   "author": "Ryan Lewis <ryanharrisonlewis@gmail.com>",
   "license": "ISC",
   "dependencies": {
