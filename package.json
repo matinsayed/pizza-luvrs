@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=6.0" // intentionally so big version number
+    "node": ">=6.0"
   },
   "author": "Ryan Lewis <ryanharrisonlewis@gmail.com>",
   "license": "ISC",
